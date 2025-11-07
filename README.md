@@ -435,7 +435,7 @@ contact.html
 ```
 ## OUTPUT:
 rest.html
-![alt text](<home.html (2).png>)
+![alt text](home.html.png)
 
 menu.html
 ![alt text](menu.html.png)
